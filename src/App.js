@@ -9,6 +9,7 @@ function App() {
             <h3>this is the third heading.</h3>
               <h4>this is the fourth heading.</h4>
                 <h5>this is the fifth heading.</h5>
+                <h6>is h6 heading working or not.</h6>
       </div>
     </div>
   );
